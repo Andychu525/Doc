@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\cmd.exe",
+    "editor.fontSize": 17,
+    "workbench.colorTheme": "Dark (Monokai)",
+    "workbench.statusBar.visible": false,
+    "python.linting.pylintPath": "F:\\Env\\Python\\python3.6.1\\Scripts\\pylint.exe"
+}
